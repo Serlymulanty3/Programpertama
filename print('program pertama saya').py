@@ -1,0 +1,6 @@
+print('program pertama saya')
+print('saya Serly Mulanty')
+print('alamat saya Pelangas Bangka Barat')
+print('hobi saya memasak')
+print('saya berasal dari sekolah MA Miftahul Jannah')
+print(' saya lahir tanggal 03 Desember 2004')
